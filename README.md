@@ -1,6 +1,6 @@
 # Hi there, I'm Reno! 👋
 
-📍 Based in Jakarta, Indonesia  
+📍 Based in Bekasi, Indonesia  
 🧑‍💻 Backend Developer specialized in .NET Core, Microservices, and SQL-based systems.
 
 - 🏢 I'm currently working at **PT Astra Graphia Information Technology** as a .NET Developer.
